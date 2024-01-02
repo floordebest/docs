@@ -29,6 +29,27 @@ The desktop edition has a signing API to interact with dApps on Kadena Chainweb.
 
 [Windows (Virtual Machine)](https://github.com/kadena-io/chainweaver/releases/download/v2.2.3/kadena-chainweaver-vm.2.2.3.0.ova)
 
+
+### Linx Wallet
+
+Linx Wallet is the only wallet that abstracts away the complexity of the multi-chain architecture of Kadena, making it 
+the easiest wallet for new and existing users on the Kadena Blockchain.
+
+Linx Wallet is also the only wallet that has a DEX aggregator inside the wallet, to easily swap inside your application. 
+The aggregator spreads your swap over all exchanges on Kadena, giving you the best possible result without having
+to worry on what chains your tokens are.
+
+Besides being extremely user friendly and ´smart´, Linx Wallet is the first wallet in the world that is GAS FREE.
+
+[LinxWallet.xyz](https://linxwallet.xyz)
+
+[Android](https://play.google.com/store/apps/details?id=com.thinedgelabs.linx_wallet)
+[IOS](https://apps.apple.com/us/app/thinedgelabs-linx-wallet/id6450412379)
+
+[Telegram Support](https://t.me/linx_wallet_chat)
+[Discord Support](https://discord.gg/As44snnmkJ)
+
+
 ### Koala Wallet
 
 Your Passport to the Kadena Ecosystem.
